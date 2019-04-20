@@ -7,7 +7,7 @@
 
 Unity.Graphics playground
 
-![](./Documents/img/SimpleHouse.1.jpg)
+![](./Documents/img/SimpleHouse.2.jpg)
 
 ## Reference
 
